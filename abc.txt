@@ -2,7 +2,7 @@
 i am new to git 
 Hi , how are you 
 this is test1 branch 
-change branch head 
+branch confliction
 Checking for git merge 
 I want to merge to remote 
 Please check wiht your manager 
