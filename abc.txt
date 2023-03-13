@@ -4,3 +4,4 @@ Hi , how are you
 this is test1 branch 
 change branch head 
 Checking for git merge 
+I want to merge to remote 
