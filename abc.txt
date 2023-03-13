@@ -3,3 +3,4 @@ i am new to git
 
 this is test1 branch 
 change branch head 
+Checking for git merge 
